@@ -1,0 +1,69 @@
+# Copyright and Third-Party Attribution Notice
+
+## 1. Original Wallpaper
+
+This project is a modified version of the **Music Tunnel** wallpaper originally created by **Rocksdanister** and made available through the following open-source repository:
+
+**Original Author:** Rocksdanister
+**Original Project:** Lively Audio and Music API Demo / Music Tunnel
+**Original Source:** https://github.com/rocksdanister/audio-visualizer-wallpaper
+**Original License:** MIT License
+
+The original work and its applicable copyright and license notices remain the property of their respective copyright holders. This project does not claim ownership of the original work.
+
+## 2. Modifications
+
+This project contains modifications made by the current project author.
+
+
+
+All modifications identified above are original contributions made to this project unless otherwise stated.
+
+## 3. Third-Party Components and Assets
+
+This project contains or incorporates third-party materials that remain subject to their respective copyrights, licenses, and terms of use.
+
+### Deform – Square Tunnel
+
+**Original Author:** Inigo Quilez
+**Copyright:** © 2013 Inigo Quilez
+**Source:** https://www.shadertoy.com/view/Ms2SWW
+
+This component is attributed to its original author and is not claimed as an original creation of this project.
+
+### Background Image
+
+**Source:** Pexels
+**Asset:** Purple and Blue Light Digital Wallpaper
+**Source:** https://www.pexels.com/photo/purple-and-blue-light-digital-wallpaper-3780104/
+
+The applicable Pexels license and terms govern the use of this asset.
+
+## 4. Third-Party Video Material
+
+The video material used in this project is third-party content and is attributed to its respective creator/rightsholder.
+
+**Source:** Instagram
+**Post:** https://www.instagram.com/reel/Dd9L_IgxQHO/
+
+The project author does not claim ownership of the original video unless otherwise expressly stated. The video is identified here for attribution and source-reference purposes.
+
+Any copyright, trademark, publicity, or other rights relating to the video remain with their respective owner(s).
+
+If the relevant copyright owner or authorized representative requests removal of the video material, the project author will review the request and, where appropriate, remove or replace the material.
+
+## 5. No Transfer of Third-Party Rights
+
+Nothing in this project or this notice is intended to transfer, assign, or claim ownership of copyrights or other intellectual-property rights belonging to third parties.
+
+Third-party materials remain subject to their respective licenses, permissions, and terms of use.
+
+## 6. Disclaimer
+
+This project is an independently modified version of the original work and is not represented as an official release, product, or endorsement of Rocksdanister, Lively Wallpaper, Inigo Quilez, Pexels, Instagram, or any other third-party creator or platform.
+
+Where applicable, the original copyright notices, license notices, and required attributions should be retained with the distributed project.
+
+## 7. Contact / Copyright Concerns
+
+If you are a copyright owner or authorized representative and believe that material included in this project is being used outside the applicable license or without appropriate authorization, please contact the project maintainer through the repository's issue or contact mechanism.
